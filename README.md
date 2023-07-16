@@ -8,7 +8,9 @@
 ### Instale Instagram lite:
 
 https://play.google.com/store/apps/details?id=com.instagram.lite&hl=pt_BR
- 
+
+### Instale Python 3.10
+
 [![YT](https://i.ytimg.com/vi/TzwyrhfPM1c/maxresdefault.jpg)](https://www.youtube.com/watch?v=TzwyrhfPM1c)
 [https://www.youtube.com/watch?v=TzwyrhfPM1c]()
 
